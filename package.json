@@ -1,7 +1,7 @@
 {
-  "name": "atm-redux-react",
+  "name": "atm-react-app",
   "version": "1.0.0",
-  "description": "ATM app using Redux and React",
+  "description": "ATM app using React",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
