@@ -1,0 +1,23 @@
+{
+	"bankAccount": {
+		"number": 12345678,
+		"balance": 500,
+		"pin": 1234,
+		"transactions": [
+			{
+				"amount": 0,
+				"balance": 0,
+				"timestamp": "2016-06-18T11:01:38-04:00",
+				"text": "Account Open",
+				"type": ""
+			},
+			{
+				"amount": 500,
+				"balance": 500,
+				"timestamp": "2016-06-18T11:01:38-04:00",
+				"text": "Intial Deposit",
+				"type": "DEPOSIT"
+			}
+		]
+	}
+}
