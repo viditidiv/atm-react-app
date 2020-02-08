@@ -1,5 +1,10 @@
 # ATM React App
 ATM app using React
+To get started with the app,
+1. Install node_modules
+  npm install
+2. Start the react app
+  npm start
 
 # Features
 If the withdrawal amount is greater than 20000, the user gets an error message.
